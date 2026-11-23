@@ -21,6 +21,6 @@ python sistema_estoque.py
 
 Yudi — Estudante de Análise e Desenvolvimento de Sistemas
 
-[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/yudi-hasegawa-769476429)
+[LinkedIn](https://www.linkedin.com/in/yudi-hasegawa-769476429)
 
 [GitHub](https://github.com/YudiHasegawa?tab=repositories)
