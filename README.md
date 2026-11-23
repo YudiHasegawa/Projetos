@@ -19,7 +19,7 @@ python sistema_estoque.py
 
 ## 👤 Autor
 
-Yudi — Estudante de Análise e Desenvolvimento de Sistemas
+Yudi Hasegawa Sousa dos Reis — Estudante de Análise e Desenvolvimento de Sistemas
 
 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/yudi-hasegawa-769476429)
 
